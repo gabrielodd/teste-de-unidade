@@ -73,5 +73,4 @@ class CommentTest {
 		assertEquals(this.comentario3.toString(), toString3);
 	}
 	
-	
 }

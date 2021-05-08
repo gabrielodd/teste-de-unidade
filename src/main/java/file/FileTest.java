@@ -66,6 +66,5 @@ public class FileTest {
 		
 		arquivo.setType(2);
 		assertEquals(arquivo.getType(), 2);
-		
 	}
 }
